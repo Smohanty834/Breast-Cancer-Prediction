@@ -80,6 +80,9 @@ The Streamlit UI will open in your default browser.
   "features": [14.0, 20.0, 90.0, 600.0, 0.1, 0.2, 0.3, 0.2, 0.1, 0.05, ...]
 }
 ```
+## Demo
+<img src="https://github.com/user-attachments/assets/439dc0ea-b8bf-4afe-b971-52dc90ccdcc6" alt="Breast Cancer Prediction System" width="750" height="400">
+<img src="https://github.com/user-attachments/assets/eb75a5b9-623d-4455-b77d-57dbcb96be65" alt="Breast Cancer Prediction System" width="750" height="400">
 
 ## 📄 Future Enhancements
 - 🔹 **Doctor Consultation Feature**
